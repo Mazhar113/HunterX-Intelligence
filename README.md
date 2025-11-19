@@ -54,5 +54,3 @@ MIT License
 
 This repository serves as a **foundation for autonomous AI, robotics, and computer vision projects** with full setup for research or production.
 
----
->>>>>>> 4fc8dd7333b1f4f354d45255cf9c9b1407439422
