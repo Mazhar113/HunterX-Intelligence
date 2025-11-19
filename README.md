@@ -34,12 +34,6 @@ python backend/navigation/navigation.py
 
 ## License
 
-MIT License
-=======
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/HunterX-Intelligence?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/HunterX-Intelligence?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/HunterX-Intelligence?style=flat-square)
-![License](https://img.shields.io/github/license/yourusername/HunterX-Intelligence?style=flat-square)
 
 ---
 
