@@ -1,0 +1,36 @@
+# HunterX Intelligence
+
+HunterX Intelligence is a full-stack autonomous AI system with modules for:
+
+- Autonomous Navigation (3D simulation, LiDAR, obstacles)
+- Human-Robot Collaboration (gesture recognition & robotics)
+- Agriculture Monitoring (crop and livestock analysis)
+- DevOps & Cloud deployment (Docker, Helm, Terraform)
+- AI Agents (multi-agent threat intelligence & predictive analytics)
+
+## Getting Started
+
+1. Clone or download the repository
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the main module
+```bash
+python backend/navigation/navigation.py
+```
+4. Explore modules:
+   - Navigation: `run_navigation()`
+   - Robotics: `run_robotics()`
+   - Agriculture: `run_agriculture()`
+
+## Folder Structure
+
+- backend: Python modules and agents
+- frontend: Dashboard or UI placeholder
+- devops: Docker, Helm charts, Terraform scripts
+- branding: Logos and assets
+
+## License
+
+MIT License
