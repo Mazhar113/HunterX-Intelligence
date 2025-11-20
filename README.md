@@ -32,7 +32,7 @@ python backend/navigation/navigation.py
 - devops: Docker, Helm charts, Terraform scripts
 - branding: Logos and assets
 
-## License
+
 
 
 ---
